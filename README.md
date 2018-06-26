@@ -1,1 +1,2 @@
-# Rufous is RISC-V based microcontroller 
+# Rufous
+Rufous is RISC-V based microcontroller 
